@@ -1,4 +1,4 @@
-# ![RealWorld Example Applications](media/realworld-dual-mode.png)
+# ![RealWorld Example Application](media/realworld-dual-mode.png)
 
 ### Stay on the bleeding edge — [join our GitHub Discussions!](https://github.com/gothinkster/realworld/discussions) 🎉
 
